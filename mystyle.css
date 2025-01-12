@@ -1,0 +1,44 @@
+.s3
+{
+    color: blue;
+    font-size: 20px;
+    font-weight: 900;
+    text-align: center;
+}
+.s1
+{
+    color: black;
+    font-size: 40px;
+    font-weight: 1000;
+    text-align: center;
+}
+.s2
+{
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: left;
+}
+.s4
+{
+    color: blue;
+    font-size: 20px;
+    font-weight: 900;
+    text-align: left;
+}
+.s5
+{
+    background-color: rgba(179, 127, 214, 0.616);
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    font-weight: 900;
+    text-align: center;
+}
+.s6
+{
+    color: red;
+    font-size: 20px;
+    font-weight: 900;
+    text-align: left;
+}
+
